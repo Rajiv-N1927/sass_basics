@@ -1,4 +1,4 @@
-***Learning the basics of frontend development***
+**Learning the basics of frontend development**\n
 **Introduction to sass**
 Primarily this repo is a relearning process for a future portfolio project consisting of the following criteria.
 * CSS grid system
